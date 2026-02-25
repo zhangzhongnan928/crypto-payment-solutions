@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
 const SOLUTIONS = ["WalletConnect Pay", "ERC-681 (OPK Rail A)", "OPK Closed-Loop", "Colossus Credit"];
 const COLORS = {
